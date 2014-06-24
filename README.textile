@@ -1,3 +1,11 @@
+h1. This is cloned for saasbook / from saas book fork
+
+h2. It is for educational purposes
+
+May be I use it on my site later.
+This is a line for Artem.
+
+
 h1. About Typo
 #test
 Typo has been around since March of 2005 making it one of the oldest blogging platforms in Rails.
