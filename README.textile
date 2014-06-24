@@ -4,7 +4,7 @@ h2. It is for educational purposes
 
 May be I use it on my site later.
 This is a line for Artem.
-
+And this is for Kolya
 
 h1. About Typo
 #test
