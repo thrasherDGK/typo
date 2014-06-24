@@ -7,7 +7,7 @@ This is a line for Artem.
 
 
 h1. About Typo
-
+#test
 Typo has been around since March of 2005 making it one of the oldest blogging platforms in Rails.
 
 It provides every feature a modern blogging engine needs: powerful themes, extensions, smart users management, SEO capabilities and brings a great user experience for both site visitors and Web developpers. Typo is easy to install and even easier to use.
